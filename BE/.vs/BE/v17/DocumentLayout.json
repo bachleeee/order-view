@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vhec_internship2024_dev1\\BE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\internship.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internship\\internship\\internship.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internship\\internship\\Controllers\\UsersController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internship\\internship\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internship\\internship\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:internship\\internship\\Model\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "internship\\internship\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "internship\\internship\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T06:44:32.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "internship.http",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\internship.http",
+              "RelativeDocumentMoniker": "internship\\internship\\internship.http",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\internship.http",
+              "RelativeToolTip": "internship\\internship\\internship.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-06T06:05:22.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "internship\\internship\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "internship\\internship\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAAAIQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:58:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Model\\User.cs",
+              "RelativeDocumentMoniker": "internship\\internship\\Model\\User.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Model\\User.cs",
+              "RelativeToolTip": "internship\\internship\\Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:57:21.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Program.cs",
+              "RelativeDocumentMoniker": "internship\\internship\\Program.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Program.cs",
+              "RelativeToolTip": "internship\\internship\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T05:47:20.752Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vhec_internship2024_dev1\\BE\\internship\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|d:\\vhec_internship2024_dev1\\be\\internship\\internship\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|d:\\vhec_internship2024_dev1\\be\\internship\\internship\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|d:\\vhec_internship2024_dev1\\be\\internship\\internship\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CFB61D2-B36F-43FD-B3C3-F4BC8C5B625A}|internship\\internship.csproj|solutionrelative:internship\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "internship\\Controllers\\ItemsController.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "internship\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAgwE4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:05:46.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "internship\\Model\\OrderDetail.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "internship\\Model\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T04:40:23.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "internship\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\vhec_internship2024_dev1\\BE\\internship\\internship\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "internship\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAqwP8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T09:22:26.602Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
